@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying at University of Moratuwa.
 - 🌱 I’m currently learning everything.
 - 🤔 All of my projects are available at https://github.com/deshanipalliyaguruge
-- 📫 How to reach me: deshanipalliyaguruge2000@gmail.com & https://deshani-portfolio.vercel.app/
+- 📫 How to reach me: deshanipalliyaguruge2000@gmail.com & https://deshaniprilakshana.vercel.app/
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+Student+and+Quick+Learner"></a>
   </p>
